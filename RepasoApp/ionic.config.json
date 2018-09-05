@@ -1,0 +1,7 @@
+{
+  "name": "RepasoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
